@@ -1,2 +1,1 @@
-# astro-bible
-P2P string compendium 
+P2P string compendium. Logic for db and layout.
